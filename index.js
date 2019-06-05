@@ -1128,3 +1128,5 @@ function change4(){
 function zoom(){
   document.getElementsByClassName(detail-wrap).innerHTML = "";
 }
+
+	

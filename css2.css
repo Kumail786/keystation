@@ -1616,3 +1616,7 @@ p.ui-feedback-addon.ui-feedback-body{
 .ui-balloon.ui-balloon-tl{
 	z-index:1000!important
 }
+.zoom:hover {
+	-ms-transform: scale(1.7); /* IE 9 */
+	-webkit-transform: scale(1.7); /* Safari 3-8 */
+	transform: scale(1.7); }
