@@ -60,13 +60,17 @@ function pro(){
 													<li class="property-item" id="product-prop-200000329"><span class="propery-title">Cache:</span> <span class="propery-des" title="Solid">128/256MB</span></li>
 
 												</ul>
+												<div >
+														<img src="lower.png" id="lower">
+													</div>
 											</div>
 										</div>
 										<div class="ui-box transaction-feedback-main" data-spm="1000024" id="j-transaction-feedback">
 											<div class="loading32"></div>
 										</div>
 									</div>
-								</div>`;
+								</div>
+								`;
 }
 function change1(){
   document.getElementById('chan').src  = "choice1.png";
