@@ -19,46 +19,53 @@ function feed(){
 			<ul class="rate-list">
 					<li>
 							<span class="r-title">5 Stars</span>
+							<div style="width:20%;height:2%%;background-color:orange;display:inline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 							<span class="r-graph">
 									<b class="r-graph-scroller" style="width:100.0%;"></b>
 							</span>
-							<span class="r-num fb-star-list-href" data="5 Stars">100%</span>
+							<span class="r-num fb-star-list-href" data="5 Stars">100%</span><br><br>
 					</li>
 					<li>
 							<span class="r-title">4 Stars</span>
+							<div style="width:20%;height:2%;background-color:orange;display:inline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 							<span class="r-graph">
 									<b class="r-graph-scroller" style="width:0.0%;"></b>
 							</span>
-							<span class="r-num fb-star-list-href" data="4 Stars">0%</span>
+							<span class="r-num fb-star-list-href" data="4 Stars">0%</span><br><br>
 					</li>
 					<li>
 							<span class="r-title">3 Stars</span>
+							<div style="width:20%;height:2%;background-color:orange;display:inline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 							<span class="r-graph">
 									<b class="r-graph-scroller" style="width:0.0%;"></b>
 							</span>
-							<span class="r-num fb-star-list-href" data="3 Stars">0%</span>
+							<span class="r-num fb-star-list-href" data="3 Stars">0%</span><br><br>
 					</li>
 					<li>
 							<span class="r-title">2 Stars</span>
+							<div style="width:20%;height:2%;background-color:orange;display:inline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 							<span class="r-graph">
 									<b class="r-graph-scroller" style="width:0.0%;"></b>
 							</span>
-							<span class="r-num fb-star-list-href" data="2 Stars">0%</span>
+							<span class="r-num fb-star-list-href" data="2 Stars">0%</span><br><br>
 					</li>
 					<li>
-							<span class="r-title">1 Star</span>
+							<span class="r-title">1 Star&nbsp;</span>
+							<div style="width:20%;height:2%;background-color:orange;display:inline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 							<span class="r-graph">
 									<b class="r-graph-scroller" style="width:0.0%;"></b>
 							</span>
-							<span class="r-num fb-star-list-href" data="1 Stars">0%</span>
+							<span class="r-num fb-star-list-href" data="1 Star">0%</span>
 					</li>
 			</ul>
+			<br>
+			<br>
 			<div class="rate-score" data-spm-anchor-id="0.0.0.i1.5f2bdm3edm3eDe">
 					<div class="star-view-big"><span style="width:100.0%"></span></div>
 					<div class="star-rate-des">
-							<p class="r-score-des">Average Star Rating: 
+							<p class="r-score-des" style="font-size:29px;">Average Star Rating: 
 				<em></em>
-				(3 votes)
+				(5 votes)
 			</p>
 							<span class="r-score-tips" id="j-score-tips"></span>
 					</div>
@@ -70,56 +77,35 @@ function feed(){
 		</div>
 			</div>
 	</div>
-	<div class="filter-wrap clearfix">
-							<span class="f-title">All Feedback </span>
-			<div class="f-star-dropdown">
-								<span class="fb-star-selector">All Stars (<em>3</em>)</span>
-		<div id="filter_star_list" class="fb-star-list">
-							<ul>
-									<li class="active"><a class="fb-star-list-href" data="all Stars" href="javascript:void(0);" rel="nofollow">All Stars</a></li>
-									<li><a class="fb-star-list-href" data="5 Stars" href="javascript:void(0);" rel="nofollow">5 Stars</a></li>
-									<li><a class="fb-star-list-href" data="4 Stars" href="javascript:void(0);" rel="nofollow">4 Stars</a></li>
-									<li><a class="fb-star-list-href" data="3 Stars" href="javascript:void(0);" rel="nofollow">3 Stars</a></li>
-									<li><a class="fb-star-list-href" data="2 Stars" href="javascript:void(0);" rel="nofollow">2 Stars</a></li>
-									<li><a class="fb-star-list-href" data="1 Stars" href="javascript:void(0);" rel="nofollow">1 Star</a></li>
-									<li class="separator"><hr></li>
-									<li><a class="fb-star-list-href" data="All positive" href="javascript:void(0);" rel="nofollow">All Positive</a></li>
-									<li><a class="fb-star-list-href" data="All cricital" href="javascript:void(0);" rel="nofollow">All Negative </a></li>
-																																																																																																																																																																						</ul>
-					</div>
-			</div>
-			<div class="f-filter-list">
-					<label>
-								<input id="cb-withPictures-filter" type="checkbox" value="withPictures">With Pictures  (<em>0</em>)
-											</label>
-					<label style="f-filter-personal-info">
-								<input id="cb-withPersonalInfo-filter" type="checkbox" value="withPersonalInfo">With Personal Information(<em>0</em>)
-											</label>
-					<label class="f-filter-additional">
-								<input id="cb-withAdditionalFeedback-filter" type="checkbox" value="withAdditionalFeedback">Additional Feedback (<em>0</em>)
-											</label>
-			</div>
-			</div>
-	<div class="feedback-action">
-							<div class="fb-filter-country"><label>
-										<input id="cb-onlyFromMyCountry-filter" type="checkbox" value="onlyFromMyCountry">View reviews from United States
-														</label></div>
 	
-											 <div id="simple-pager" class="util-clearfix simple-pager">
-	<div class="ui-pagination ui-pagination-front ui-pagination-pager util-right">
-													<span href="#" class="ui-pagination-prev ui-pagination-disabled">Previous</span>
-			
-													<span href="#" class="ui-pagination-next ui-pagination-disabled">Next</span>
-			
-							<label class="ui-label">1/1</label>
-	</div>
-</div>         		     		            <div class="fb-sort">
-												<span class="fb-sort-selector">Sort by default</span>
-							<div class="fb-sort-list" id="sort-by-container">
-									<ul>
-																						<li><a class="fb-sort-list-href" data="sortlarest@feedback" href="javascript:void(0);" rel="nofollow">Sort by latest</a></li>
-																					</ul>
+								<ul style="list-style-type: none;">
+									<li class="fe">
+										All FeedBack
+									</li>
+									<li class="fe">
+										<select>
+											<option value="All Stars">All Stars</option>
+											<option value="4 stars">4 stars</option>
+											<option value="3 stars">3 stars</option>
+											<option value="2 stars">2 stars</option>
+											<option value="1 star">1 star</option>
+										</select>
+									</li><li class="fe">
+										<input type="checkbox">With Pictures (0)
+									</li><li class="fe">
+									   <input type="checkbox" >With Personal Information (0)
+									</li><li class="fe">
+									   <input type="checkbox">With Additional Information
+									</li>
+								</ul>
 							</div>
+		
+			</div>
+			
+			</div>
+	
+	
+
 					</div>`;
 }
 function ship(){
@@ -1019,9 +1005,13 @@ function seller(){
 	<table class="seller-detail-show">
 			<tbody>
 								<tr>
+								
 							<td width="80">Return<br> Policy</td>
+							
+							
 							<td class="s-td-row"><p class="s-serve sp-1" data-spm-anchor-id="2114.10010108.1000021.i0.4d7450cfLSVdmb">If the product you receive is not as described or low quality, the seller promises that you may return it before order completion (when you click ‘Confirm Order Received’ or exceed confirmation timeframe) and receive a full refund. The return shipping fee will be paid by you. Or, you can choose to keep the product and agree the refund amount directly with the seller.</p><p>⠀</p></td>
-					</tr>
+							<img src="return.png" style="width:5%" height:8%;">
+							</tr>
 						 <tr class="com-seller-guarantees">
 							<td>Seller<br> Service</td>
 							<td class="s-td-row">

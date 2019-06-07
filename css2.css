@@ -142,12 +142,22 @@ img{
 		padding-right:20px;
 		width:auto
 }
+#j-detail-page{
+	margin: 0 auto;
+}
+}
+.fe{
+	float: left;
+	margin-left: 3%;
 }
 @media (min-width:1020px){
 	.container{
 		padding-left:15px;
 		padding-right:15px;
 		width:auto
+}
+#j-detail-page{
+	margin: 0 auto;
 }
 }
 @media (min-width:1260px){
@@ -157,6 +167,9 @@ img{
 		margin-left:auto;
 		margin-right:auto;
 		width:1200px
+}
+#j-detail-page{
+	margin: 0 auto;
 }
 }
 #lower{
@@ -533,6 +546,9 @@ p.ui-feedback-addon.ui-feedback-body{
 }
 	.report-item-link{
 		display:none
+}
+#j-detail-page{
+	margin: 0 auto;
 }
 }
 .image-thumb-list{
@@ -1608,6 +1624,9 @@ p.ui-feedback-addon.ui-feedback-body{
 	.image-thumb-list li{
 		float:left;
 		margin-right:5px
+}
+#j-detail-page{
+	margin: 0 auto;
 }
 }
 .buynow-custom{
